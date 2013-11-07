@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Giulio Bonanome -- president -- @gbonanome
+
+# THANKS
+
+    My family, nicmartnic, other people 
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    HTML5Boilerplate, Twitter Bootstrap
+    Font Awesome, SubtlePattern

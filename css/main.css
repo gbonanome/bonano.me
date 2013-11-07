@@ -1,0 +1,117 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+body {
+    background: url('../img/psychedelic_pattern.png') repeat;
+}
+
+/* Types */
+h1, h2, h3, .bio .tldr {
+  font-family: Lora, Georgia;
+}
+
+h1 {
+    font-size: 60px;
+    margin-top: 30px;
+}
+
+h2.tagline {
+  font-style: italic;
+  font-size: 1.8em;
+  margin-top: 0;
+}
+
+.container {
+  margin: 30px auto;
+  text-align: center
+}
+
+.avatar {
+  margin: 0 30px;
+}
+
+.findme {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.findme li{
+    padding: 0 20px;
+}
+
+.findme a,
+h2 a {
+    color: #333;
+}
+
+.findme a:hover,
+h2 a:hover {
+    text-decoration: none;
+    color: #C95936;
+}
+
+/* Bio section */
+.bio {
+  position: relative;
+  background: #eee;
+  text-align: left;
+  border: 1px solid #777;
+  border-radius: 4px;
+  padding: 20px;
+  margin: 40px 0;
+}
+
+.bio > h3 {
+  position: absolute;
+  top: -1.4em;
+  left: 10px;
+  background: #eee;
+  padding: 0 10px;
+}
+
+.bio > .full {
+  display: none;
+}
+
+.bio > button {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  float: right;
+}
+
+.bio > button > i {
+  vertical-align: middle;
+  margin-left: 3px
+}
+
+/* Credits */
+.credits {
+  margin-top: 60px;
+  text-align: left;
+}
+
+@media (max-width: 650px) {
+    h1 {
+        font-size: 34px;
+        margin-top: 0;
+    }
+    h2.tagline {
+      font-size: 1em;
+    }
+    .findme {
+      margin-top: 30px;
+      margin-bottom: 10px;
+    }
+    .findme i {
+      font-size: 2em;
+    }
+}
