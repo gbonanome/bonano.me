@@ -25,7 +25,7 @@
         
         <div class="container">
             <h1>Giulio Bonanome</h1>
-            <h2 class="tagline">Se un progetto è interessante, divento uno stalker.</h2>
+            <h2 class="tagline">Full-time thinker, part-time maker, wannabe developer.</h2>
 
             <ul class="findme list-inline">
                 <li><a href="mailto:gbonanome@gmail.com"><i class="fa fa-envelope fa-4x"></i></a></li>
@@ -44,7 +44,7 @@
             </p>
             <p class="full">
                 A breve un intero e corposo paragrafo sulla mia persona. Che voglio spiegare meglio chi sono
-                e cosa ci faccio qui. Nel caso ci siano altri stalker lì fuori...
+                e cosa ci faccio qui....
             </p>
             <button>Full bio<i class="fa fa-angle-double-down"></i></button>
             </section>
