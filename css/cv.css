@@ -1,0 +1,71 @@
+/* Curriculum styles */
+
+/* Customize container */
+/*@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}*/
+
+
+/* Types */
+body {
+	padding-top: 3em;
+	font-family: Lato, "Lucida Grande", "Droid Sans", sans-serif;
+	font-size: 2em;
+}
+
+h1, h2, h3 {
+    font-family: Lato, "Lucida Grande", "Droid Sans", sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+	display: inline-block;
+	font-size: 3em;
+	margin-bottom: 1em;
+}
+
+h1 img {
+    margin: 0 2em;
+}
+
+section > h2 {
+    margin-bottom: 30px;
+}
+
+section + section {
+    border-top: 1px solid #eee;
+    padding: 1em 0 2em 0;
+}
+
+section .where {
+    color: #999;
+    font-size: 0.7em;
+    margin: 0 2em;
+}
+
+section .when {
+    color: #999;
+    font-size: 0.7em;
+    font-style: italic;
+    margin-left: 2em;
+}
+
+.education .minor {
+    font-size: 0.8em;
+}
+
+.work .what {
+    padding-left: 40px;
+}
+
+.work h3 {
+	margin: 20px 0
+}
+
+.work h4 {
+    font-weight: bold;
+    margin-top: 20px;
+}
+

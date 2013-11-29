@@ -52,7 +52,7 @@
             <section class="blogs row">
                 <div class="col-md-6">
                     <a href="http://omote.gbonanome.org">
-                        <img src="./img/omote.jpg" class="img-circle avatar">            
+                        <img src="./img/omote.jpg" class="img-circle avatar">
                     </a>
                     <h2><a href="http://omote.gbonanome.org">Omote</a></h2>
                     <p>Un blog che parla di sviluppo web, tecnologia, forse anche biblioteche</p>
