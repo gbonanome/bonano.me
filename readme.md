@@ -1,1 +1,1 @@
-Just my site http://gbonanome.org
+Just my site http://bonano.me

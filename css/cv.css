@@ -1,29 +1,20 @@
 /* Curriculum styles */
 
-/* Customize container */
-/*@media (min-width: 768px) {
-  .container {
-    max-width: 730px;
-  }
-}*/
-
-
-/* Types */
 body {
-	padding-top: 3em;
-	font-family: Lato, "Lucida Grande", "Droid Sans", sans-serif;
-	font-size: 2em;
+    padding-top: 3em;
+    font-family: Lato, "Lucida Grande", "Droid Sans", sans-serif;
+    font-size: 2em;
 }
 
 h1, h2, h3 {
     font-family: Lato, "Lucida Grande", "Droid Sans", sans-serif;
     font-weight: bold;
+
 }
 
 h1 {
-	display: inline-block;
-	font-size: 3em;
-	margin-bottom: 1em;
+    font-size: 3em;
+    margin-bottom: 1em;
 }
 
 h1 img {
@@ -34,22 +25,29 @@ section > h2 {
     margin-bottom: 30px;
 }
 
-section + section {
-    border-top: 1px solid #eee;
+section {
     padding: 1em 0 2em 0;
 }
 
-section .where {
-    color: #999;
-    font-size: 0.7em;
-    margin: 0 2em;
+section + section {
+    border-top: 1px solid #eee;
 }
 
-section .when {
+.where, .when {
     color: #999;
+    display: block;
+}
+
+h3 .where, h3 .when {
     font-size: 0.7em;
+}
+
+.when {
     font-style: italic;
-    margin-left: 2em;
+}
+
+.education .where:before {
+
 }
 
 .education .minor {
@@ -61,7 +59,12 @@ section .when {
 }
 
 .work h3 {
-	margin: 20px 0
+    margin: 20px 0;
+}
+
+.work .when {
+    display: inline-block;
+    margin-left: 2em;
 }
 
 .work h4 {
@@ -69,3 +72,32 @@ section .when {
     margin-top: 20px;
 }
 
+@media (max-width: 992px) {
+    
+    h1 {
+        font-size: 2.5em;
+        text-align: center;
+    }
+
+    h1 img {
+        margin: 0 1em;
+    }
+}
+
+/* Say Hi to small screens */
+@media (max-width: 768px) {
+
+    h1 {
+        font-size: 2em;
+        line-height: 2em;
+    }
+
+    h1 img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .work .what {
+        padding-left: 0;
+    }
+}
