@@ -37,16 +37,16 @@
 
             <section class="bio">
             <h3>BIO</h3>
-            <p><span class="tldr">TL;DR</span> - Sono uno <strong>sviluppatore</strong> web che si occupa di <strong>biblioteche</strong>. Mi è sempre piaciuto insegnare ma è difficile, perchè
+            <p>Sono uno <strong>sviluppatore</strong> web che si occupa di <strong>biblioteche</strong>. Mi è sempre piaciuto insegnare ma è difficile, perchè
             vuol dire prepararsi. Amo il cinema e i fumetti, l’information visualization, l’<strong>open
             source</strong>. Mi piacerebbe saper disegnare e imparare a programmare ma manco di
             autodisciplina. Ad esempio, compro sempre più libri di quanti poi ne riesca a leggere.
             </p>
-            <p class="full">
-                A breve un intero e corposo paragrafo sulla mia persona. Che voglio spiegare meglio chi sono
-                e cosa ci faccio qui....
-            </p>
-            <button>Full bio<i class="fa fa-angle-double-down"></i></button>
+            <!-- 
+                TODO: 
+                - link al CV 
+                - versione inglese o link a versione inglese
+            -->
             </section>
 
             <section class="blogs row">
