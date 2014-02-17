@@ -25,10 +25,10 @@
         
         <div class="container">
             <h1>Giulio Bonanome</h1>
-            <h2 class="tagline">Full-time thinker, part-time maker, wannabe developer.</h2>
+            <h2 class="tagline">Full-time thinker, part-time developer, wannabe teacher.</h2>
 
             <ul class="findme list-inline">
-                <li><a href="mailto:gbonanome@gmail.com"><i class="fa fa-envelope fa-4x"></i></a></li>
+                <li><a href="mailto:giulio@bonano.me"><i class="fa fa-envelope fa-4x"></i></a></li>
                 <li><a href="https://github.com/gbonanome"><i class="fa fa-github fa-4x"></i></a></li>
                 <li><a href="http://twitter.com/gbonanome"><i class="fa fa-twitter fa-4x"></i></a></li>
                 <li><a href="http://it.linkedin.com/in/gbonanome/"><i class="fa fa-linkedin fa-4x"></i></a></li>
@@ -42,6 +42,7 @@
             source</strong>. Mi piacerebbe saper disegnare e imparare a programmare ma manco di
             autodisciplina. Ad esempio, compro sempre più libri di quanti poi ne riesca a leggere.
             </p>
+            <p>Ho anche scritto <a href="cv">una specie di curriculum</a>.</p>
             <!-- 
                 TODO: 
                 - link al CV 

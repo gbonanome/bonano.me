@@ -9,16 +9,43 @@ body {
 h1, h2, h3 {
     font-family: Lato, "Lucida Grande", "Droid Sans", sans-serif;
     font-weight: bold;
-
 }
 
-h1 {
+h1{
     font-size: 3em;
+}
+
+a {
+  color: #C95936;
+}
+
+a:hover, a:focus {
+  color: #923F25;
+}
+
+header {
     margin-bottom: 1em;
 }
 
-h1 img {
+header img {
+    float: left;
     margin: 0 2em;
+}
+
+.contacts {
+    text-align: center
+}
+
+.contacts li {
+    margin: 0 5px
+}
+
+.contacts li a {
+    color: #aaa;
+}
+
+.contacts li a:hover {
+    color: #C95936;
 }
 
 section > h2 {
@@ -33,43 +60,66 @@ section + section {
     border-top: 1px solid #eee;
 }
 
-.where, .when {
+h3 {
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+
+.meta{
     color: #999;
     display: block;
-}
-
-h3 .where, h3 .when {
     font-size: 0.7em;
+    margin-bottom: 10px;
 }
 
-.when {
-    font-style: italic;
-}
-
-.education .where:before {
-
-}
-
-.education .minor {
-    font-size: 0.8em;
+.meta i + i {
+    margin-left: 15px;
 }
 
 .work .what {
-    padding-left: 40px;
-}
-
-.work h3 {
-    margin: 20px 0;
-}
-
-.work .when {
-    display: inline-block;
-    margin-left: 2em;
+    margin-left: 5px;
+    padding-left: 15px;
+    border-left: 1px dotted gray;
 }
 
 .work h4 {
     font-weight: bold;
     margin-top: 20px;
+}
+
+.work h4:before {
+    content: "";
+    border-top: 1px dotted gray;
+    width: 10px;
+    height: auto;
+    display: block;
+    position: relative;
+    left: -15px;
+    top: 10px;
+}
+
+footer {
+    font-size: 0.8em;
+    margin-bottom: 10px
+}
+
+footer:before {
+    content: "";
+    display: block;
+    width: 200px;
+    height: auto;
+    margin: 40px auto;
+    border-top: 1px solid #ddd;
+}
+
+footer i + i {
+    margin-left: 20px;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 970px;
+    }
 }
 
 @media (max-width: 992px) {
@@ -79,8 +129,10 @@ h3 .where, h3 .when {
         text-align: center;
     }
 
-    h1 img {
-        margin: 0 1em;
+    header img {
+        margin: 0 auto;
+        display: block;
+        float: none;
     }
 }
 
@@ -92,12 +144,18 @@ h3 .where, h3 .when {
         line-height: 2em;
     }
 
-    h1 img {
+    header img {
         display: block;
         margin: 0 auto;
     }
 
     .work .what {
+        margin-left: 0;
         padding-left: 0;
+        border-left: none;
+    }
+
+    .work h4:before {
+        display: none;
     }
 }

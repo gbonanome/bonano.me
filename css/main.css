@@ -29,6 +29,13 @@ h2.tagline {
   margin-top: 0;
 }
 
+a {
+  color: #C95936;
+}
+a:hover, a:focus {
+  color: #923F25;
+}
+
 .container {
   margin: 30px auto;
   text-align: center
