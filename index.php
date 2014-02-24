@@ -37,12 +37,9 @@
 
             <section class="bio">
             <h3>BIO</h3>
-            <p>Sono uno <strong>sviluppatore</strong> web che si occupa di <strong>biblioteche</strong>. Mi è sempre piaciuto insegnare ma è difficile, perchè
-            vuol dire prepararsi. Amo il cinema e i fumetti, l’information visualization, l’<strong>open
-            source</strong>. Mi piacerebbe saper disegnare e imparare a programmare ma manco di
-            autodisciplina. Ad esempio, compro sempre più libri di quanti poi ne riesca a leggere.
+            <p>Sono uno <strong>sviluppatore</strong> web che si occupa di <strong>biblioteche</strong>. Mi è sempre piaciuto insegnare ma è difficile, perchè vuol dire prepararsi. Amo il cinema e i fumetti, l’information visualization, l’<strong>open source</strong>. Mi piacerebbe saper disegnare e costruire robot ma manco di autodisciplina. Ad esempio, compro sempre più libri di quanti poi ne riesca a leggere.
             </p>
-            <p>Ho anche scritto <a href="cv">una specie di curriculum</a>.</p>
+            <p>Ho provato a scrivere <a href="cv">una specie di curriculum</a>.</p>
             <!-- 
                 TODO: 
                 - link al CV 
