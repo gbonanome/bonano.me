@@ -15,24 +15,30 @@ h1{
     font-size: 3em;
 }
 
-a {
-  color: #C95936;
+section a,
+footer a {
+    color: #333;
+    border-bottom: 1px dotted #C95936;
 }
 
-a:hover, a:focus {
-  color: #923F25;
+section a:hover, section a:focus,
+footer a:hover, footer a:focus {
+    color: #C95936;
+    border-bottom: 1px solid #C95936;
+    text-decoration: none
 }
 
 header {
     margin-bottom: 1em;
 }
 
-header img {
-    float: left;
-    margin: 0 2em;
+header h1 + a {
+    width: 128px;
+    margin: 10px auto;
+    display: block;
 }
 
-.contacts {
+header h1, .contacts {
     text-align: center
 }
 
@@ -44,8 +50,13 @@ header img {
     color: #aaa;
 }
 
+.contacts li a:focus,
 .contacts li a:hover {
     color: #C95936;
+}
+
+.contacts li span {
+    display: none
 }
 
 section > h2 {
@@ -54,10 +65,6 @@ section > h2 {
 
 section {
     padding: 1em 0 2em 0;
-}
-
-section + section {
-    border-top: 1px solid #eee;
 }
 
 h3 {
@@ -85,6 +92,7 @@ h3 {
 .work h4 {
     font-weight: bold;
     margin-top: 20px;
+    margin-bottom: 0
 }
 
 .work h4:before {
@@ -100,19 +108,12 @@ h3 {
 
 footer {
     font-size: 0.8em;
-    margin-bottom: 10px
+    margin-top: 40px;
+    padding: 20px 0;
+    background: #eee;
 }
 
-footer:before {
-    content: "";
-    display: block;
-    width: 200px;
-    height: auto;
-    margin: 40px auto;
-    border-top: 1px solid #ddd;
-}
-
-footer i + i {
+footer span + span {
     margin-left: 20px;
 }
 
@@ -138,6 +139,10 @@ footer i + i {
 
 /* Say Hi to small screens */
 @media (max-width: 768px) {
+    
+    body {
+        padding-top: 1em;
+    }
 
     h1 {
         font-size: 2em;
@@ -157,5 +162,68 @@ footer i + i {
 
     .work h4:before {
         display: none;
+    }
+
+    footer span + span {
+        display: block;
+        margin-left: 0;
+    }
+}
+
+@media print {
+
+    body {
+        padding-top: 0;
+        font-size: 1em;
+    }
+
+    section a,
+    footer a {
+        color: #000;
+        text-decoration: none;
+        border-bottom: 1px dotted #000;
+    }
+
+    h1 {
+        font-size: 2em;
+        float: left;
+    }
+
+    header h1 + a {
+        float: right;
+    }
+
+    header img{
+        width: 100px
+    }
+
+    .contacts {
+        text-align: left;
+        clear: both;
+        padding-left: 0;
+    }
+
+    .contacts li i.fa-2x {
+        font-size: 1em;
+    }
+
+    .contacts li span {
+        display: inline-block;
+        margin-left: 10px;
+    }
+    .list-inline > li {
+        display: block;
+    }
+
+    section {
+        padding-bottom: 0
+    }
+
+    section > h2 {
+        margin-bottom: 10px;
+    }
+
+    footer span:last-child {
+        display: none
     }
 }

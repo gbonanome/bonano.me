@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Giulio Bonanome CV</title>
+        <title>Giulio Bonanome - Curriculum Vitae</title>
         <meta name="description" content="Giulio Bonanome CV in one page">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -26,16 +26,14 @@
         <div class="container">
             
             <header class="clearfix" role="banner">
-                <a href="http://bonano.me"><img src="./img/omote.jpg" class="img-circle avatar"></a>
-                <div class="contacts">
-                    <h1>Giulio Bonanome</h1>
-                    <ul class="list-inline">
-                        <li><a href="mailto:giulio@bonano.me"><i class="fa fa-envelope fa-2x"></i></a></li>
-                        <li><a href="https://github.com/gbonanome"><i class="fa fa-github fa-2x"></i></a></li>
-                        <li><a href="http://twitter.com/gbonanome"><i class="fa fa-twitter fa-2x"></i></a></li>
-                        <li><a href="http://it.linkedin.com/in/gbonanome/"><i class="fa fa-linkedin fa-2x"></i></a></li>
-                    </ul>
-                </div>
+                <h1>Giulio Bonanome</h1>
+                <a href="http://bonano.me"><img src="./img/omote.jpg" class="img-circle avatar" title="Ci sto pensando" alt="Foto di Giulio mentre riflette con l'aiuto del cappello-delle-idee"></a>
+                <ul class="contacts list-inline">
+                    <li><a href="mailto:giulio@bonano.me"><i class="fa fa-envelope fa-2x"></i></a><span>giulio@bonano.me</span></li>
+                    <li><a href="http://twitter.com/gbonanome"><i class="fa fa-twitter fa-2x"></i></a><span>@gbonanome</span></li>
+                    <li><a href="https://github.com/gbonanome"><i class="fa fa-github fa-2x"></i></a><span>github.com/gbonanome</span></li>
+                    <li><a href="http://it.linkedin.com/in/gbonanome/"><i class="fa fa-linkedin fa-2x"></i></a><span>it.linkedin.com/in/gbonanome/</span></li>
+                </ul>                
             </header>
             
             <div role="main">
@@ -124,7 +122,7 @@
 
                     <h3>Volontariato</h3>
                     <p>
-                        Dopo aver fatto per alcuni anni l'animatore in parrocchia per AC, ho trovato la quadratura del cerchio scoprendo il movimento <a href="http://coderdojo.com/">CoderDojo</a> e avviando il <a href="http://coderdojopadova.wordpress.com/">CoderDojo a Padova</a>.
+                        Dopo aver fatto per alcuni anni l'animatore in parrocchia per AC, ho trovato la quadratura del cerchio scoprendo il movimento <a href="http://coderdojo.com/">CoderDojo</a> e avviando un <a href="http://coderdojopadova.wordpress.com/">Dojo a Padova</a>.
                     </p>
 
                     <h3>Lingue</h3>
@@ -132,11 +130,14 @@
                 </section>
             </div>
             
-            <footer role="contentinfo">
-                <i class="fa fa-clock-o"></i> Last update: 2014-02-24
-                <i class="fa fa-globe"></i> Would you like to read this page in english? <a href="mailto:giulio@bonano.me">Tell me</a> and I'll be happy to translate it for you.
-            </footer>
         </div>
+        <footer role="contentinfo">
+            <div class="container">
+                <span><i class="fa fa-clock-o"></i> Last update: 2014-02-25</span>
+                <span><i class="fa fa-globe"></i> English? <a href="mailto:giulio@bonano.me">I'll be happy</a> to translate my CV for you.</span>
+                <span><i class="fa fa-print"></i> <a href="javascript:window.print()">Print-your-favourite-CV button</a></span>
+            </div>
+        </footer>
         
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
