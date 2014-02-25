@@ -117,6 +117,10 @@ footer span + span {
     margin-left: 20px;
 }
 
+footer .legal {
+    display: none;
+}
+
 @media (min-width: 1200px) {
     .container {
         width: 970px;
@@ -238,7 +242,16 @@ footer span + span {
         padding-bottom: 0;
     }
 
-    footer span:last-child {
+    footer span + span {
+        margin-left: 0;
+    }
+
+    footer .translate,
+    footer .print {
         display: none
+    }
+
+    footer .legal {
+        display: block;
     }
 }

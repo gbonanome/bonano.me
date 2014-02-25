@@ -61,7 +61,7 @@
                     <div class="what">
                         <h4>Sviluppatore front-end</h4>
                         <p>Ho sviluppato prevalentemente <a href="http://www.comperio.it/soluzioni/discoveryng/panoramica/">soluzioni</a> basate sul CMS open source <a href="http://www.silverstripe.org/" title="Silverstripe">Silverstripe</a>. Per lo sviluppo utilizzo  strumenti come: <a href="http://bower.io/" title="Bower - A package manager for the web">Bower</a>, <a href="http://gruntjs.com/" title="Grunt - The JavaScript Task Runner">Grunt</a>, <a href="http://lesscss.org/" title="Less is a CSS pre-processor">Less</a>, <a href="http://git-scm.com/" title="Git is a free and open source distributed version control system ">GIT</a>. Il mio framework preferito è <a href="http://getbootstrap.com/" title="The most popular front-end framework for developing responsive, mobile first projects on the web.">Bootstrap</a>, ma ho usato <a href="http://www.yaml.de/" title="A modular CSS framework for truly flexible, accessible and responsive websites">YAML</a> e <a href="http://foundation.zurb.com/" title="The most advanced responsive front-end framework in the world">Foundation</a>.
-                        Per la natura del progetti, ho potuto comprendere il potere delle espressioni regolari e maturare una buona confidenza con linguaggi di markup basati su XML.
+                        Per la natura del progetti, ho compreso il potere delle espressioni regolari e maturato una buona confidenza nella manipolazione di dati in XML.
                         </p>
 
                         <h4>Project Manager</h4>
@@ -134,8 +134,9 @@
         <footer role="contentinfo">
             <div class="container">
                 <span><i class="fa fa-clock-o"></i> Last update: 2014-02-25</span>
-                <span><i class="fa fa-globe"></i> English? <a href="mailto:giulio@bonano.me">I'll be happy</a> to translate my CV for you.</span>
-                <span><i class="fa fa-print"></i> <a href="javascript:window.print()">Print-your-favourite-CV button</a></span>
+                <span class="translate"><i class="fa fa-globe"></i> English? <a href="mailto:giulio@bonano.me?subject=Please translate your CV&body=Hi! Your italian sounds great, would you like to prove your english?">I'll be happy</a> to translate my CV for you.</span>
+                <span class="print"><i class="fa fa-print"></i> <a href="javascript:window.print()">Print</a> (recycled paper only)</span>
+                <span class="legal"><i class="fa fa-legal"></i> Autorizzo al trattamento dei miei dati personali, ai sensi del D.lgs. 196 del 30 giugno 2003</span>
             </div>
         </footer>
         
