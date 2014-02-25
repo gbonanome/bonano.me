@@ -174,7 +174,7 @@ footer span + span {
 
     body {
         padding-top: 0;
-        font-size: 1em;
+        font-size: 13px;
     }
 
     section a,
@@ -187,6 +187,14 @@ footer span + span {
     h1 {
         font-size: 2em;
         float: left;
+    }
+    
+    h1, h2, h3, h4, .work h4 {
+        font-weight: normal
+    }
+    
+    h3 {
+        margin-top: 10px;
     }
 
     header h1 + a {
@@ -216,11 +224,18 @@ footer span + span {
     }
 
     section {
+        padding-top: 0;
         padding-bottom: 0
     }
 
     section > h2 {
         margin-bottom: 10px;
+    }
+
+    footer {
+        background: none;
+        margin-top: 20px;
+        padding-bottom: 0;
     }
 
     footer span:last-child {
