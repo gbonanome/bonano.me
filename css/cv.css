@@ -117,7 +117,7 @@ footer span + span {
     margin-left: 20px;
 }
 
-footer .site,
+
 footer .legal {
     display: none;
 }
@@ -159,14 +159,18 @@ footer .legal {
         margin: 0 auto;
     }
 
-    .work .what {
+    /*.work .what {
         margin-left: 0;
-        padding-left: 0;
+        padding-left: 15px;
         border-left: none;
     }
 
     .work h4:before {
         display: none;
+    }*/
+
+    .work h4 + p {
+        margin-top: 0;
     }
 
     footer span + span {
@@ -252,7 +256,6 @@ footer .legal {
         display: none
     }
     
-    footer .site,
     footer .legal {
         display: block;
     }

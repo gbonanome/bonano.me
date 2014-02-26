@@ -72,10 +72,17 @@
                         <p>Mi sono occupato di gestire il servizio di assistenza clienti, promuovendo l'utlizzo di <a href="http://www.zendesk.com/">Zendesk</a> e cercando di coordinare la community di clienti attraverso <a href="https://groups.google.com/forum/#!forum/clavisng-discoveryng-users">google group</a>.</p>
                     </div>
 
-                    <h3>Segretario</h3>
-                    <span class="meta"><i class="fa fa-calendar"></i> 2009 - 2010 <i class="fa fa-map-marker"></i> Venezia</span>
+                    <h3>Università Ca' Foscari</h3>
+                    <span class="meta"><i class="fa fa-calendar"></i> 2008 - 2010 <i class="fa fa-map-marker"></i> Venezia</span>
                     <div class="what">
-                        <p>Ho lavorato all'interno della segreteria didattica del Dipartimento di Scienze Economiche dell'Università Ca' Foscari. Tra le varie mansioni: photocopy manager, data entry master, receptionist, problem solver.</p>
+                        <h4>Segretario</h4>
+                        <p>Ho lavorato all'interno della segreteria didattica del Dipartimento di Scienze Economiche. Tra le varie mansioni: photocopy manager, data entry master, receptionist, problem solver.</p>
+
+                        <h4>Bibliotecario</h4>
+                        <p>Per due anni ho svolto le collaborazioni studentesche presso la Biblioteca di Servizio Didattico, con mansioni di reference.</p>
+
+                        <h4>Web content manager</h4>
+                        <p>Ho realizzato e gestito il sito di <a href="http://www.radiocafoscari.it/">Radio Ca' Foscari</a> e la piattaforma per il multi blogging (Wordpress MU). Mi sono divertito a fare da speaker per il programma di cinema (Il culto degli .avi) e di informazione (Il Ministero dell'Informazione).</p>
                     </div>
 
                     <h3>Freelance</h3>
@@ -84,11 +91,7 @@
                         <h4>Sviluppatore front-end</h4>
                         <p>
                             Mentre studiavo ho costruito siti internet amatoriali o professionali, usando XHTML e CSS. Nel 2003 mi sono avvicinato ad alcuni CMS, realizzando siti in Wordpress e Drupal. Alcuni esempi sopravvissuti: <a href="http://www.pontemanin.it/index.html">www.pontemanin.it</a>, <a href="http://www.gamanonitalia.org/">www.gamanonitalia.org</a>, <a href="http://www.centroyogayoko.it/">www.centroyogayoko.it</a>.
-                        </p>
-                        <h4>Web content manager</h4>
-                        <p>
-                            Ho realizzato e gestito il sito di <a href="http://www.radiocafoscari.it/">Radio Ca' Foscari</a> e la piattaforma per il multi blogging (Wordpress MU). Mi sono divertito a fare da speaker per il programma di cinema (Il culto degli .avi) e di informazione (Il Ministero dell'Informazione).
-                        </p>
+                        </p>                        
                     </div>
                 </section>
 
@@ -136,7 +139,6 @@
                 <span><i class="fa fa-fw fa-clock-o"></i> Last update: 2014-02-25</span>
                 <span class="translate"><i class="fa fa-fw fa-globe"></i> English? <a href="mailto:giulio@bonano.me?subject=Please translate your CV&body=Hi! Your italian sounds great, would you like to prove your english?">I'll be happy</a> to translate my CV for you.</span>
                 <span class="print"><i class="fa fa-fw fa-print"></i> <a href="javascript:window.print()">Print</a> (recycled paper only)</span>                
-                <span class="site"><i class="fa fa-fw fa-globe"></i> http://bonano.me/cv</span>
                 <span class="legal"><i class="fa fa-fw fa-legal"></i> Autorizzo al trattamento dei miei dati personali, ai sensi del D.lgs. 196 del 30 giugno 2003</span>
             </div>
         </footer>
