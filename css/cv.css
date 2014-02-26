@@ -151,7 +151,7 @@ footer .legal {
 
     h1 {
         font-size: 2em;
-        line-height: 2em;
+        line-height: inherit;
     }
 
     header img {
@@ -159,15 +159,19 @@ footer .legal {
         margin: 0 auto;
     }
 
-    /*.work .what {
+    .contacts .fa {
+        font-size: 1.6em
+    }
+
+    .work .what {
         margin-left: 0;
-        padding-left: 15px;
+        padding-left: 0;
         border-left: none;
     }
 
     .work h4:before {
         display: none;
-    }*/
+    }
 
     .work h4 + p {
         margin-top: 0;
