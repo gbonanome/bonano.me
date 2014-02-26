@@ -29,10 +29,10 @@
                 <h1>Giulio Bonanome</h1>
                 <a href="http://bonano.me"><img src="./img/omote.jpg" class="img-circle avatar" title="Ci sto pensando" alt="Foto di Giulio mentre riflette con l'aiuto del cappello-delle-idee"></a>
                 <ul class="contacts list-inline">
-                    <li><a href="mailto:giulio@bonano.me"><i class="fa fa-envelope fa-2x"></i></a><span>giulio@bonano.me</span></li>
-                    <li><a href="http://twitter.com/gbonanome"><i class="fa fa-twitter fa-2x"></i></a><span>@gbonanome</span></li>
-                    <li><a href="https://github.com/gbonanome"><i class="fa fa-github fa-2x"></i></a><span>github.com/gbonanome</span></li>
-                    <li><a href="http://it.linkedin.com/in/gbonanome/"><i class="fa fa-linkedin fa-2x"></i></a><span>it.linkedin.com/in/gbonanome/</span></li>
+                    <li><a href="mailto:giulio@bonano.me"><i class="fa fa-envelope fa-fw fa-2x"></i></a> <span>giulio@bonano.me</span></li>
+                    <li><a href="http://twitter.com/gbonanome"><i class="fa fa-fw fa-twitter fa-2x"></i></a> <span>@gbonanome</span></li>
+                    <li><a href="https://github.com/gbonanome"><i class="fa fa-fw fa-github fa-2x"></i></a> <span>github.com/gbonanome</span></li>
+                    <li><a href="http://it.linkedin.com/in/gbonanome/"><i class="fa fa-fw fa-linkedin fa-2x"></i></a> <span>it.linkedin.com/in/gbonanome/</span></li>
                 </ul>                
             </header>
             
@@ -133,10 +133,11 @@
         </div>
         <footer role="contentinfo">
             <div class="container">
-                <span><i class="fa fa-clock-o"></i> Last update: 2014-02-25</span>
-                <span class="translate"><i class="fa fa-globe"></i> English? <a href="mailto:giulio@bonano.me?subject=Please translate your CV&body=Hi! Your italian sounds great, would you like to prove your english?">I'll be happy</a> to translate my CV for you.</span>
-                <span class="print"><i class="fa fa-print"></i> <a href="javascript:window.print()">Print</a> (recycled paper only)</span>
-                <span class="legal"><i class="fa fa-legal"></i> Autorizzo al trattamento dei miei dati personali, ai sensi del D.lgs. 196 del 30 giugno 2003</span>
+                <span><i class="fa fa-fw fa-clock-o"></i> Last update: 2014-02-25</span>
+                <span class="translate"><i class="fa fa-fw fa-globe"></i> English? <a href="mailto:giulio@bonano.me?subject=Please translate your CV&body=Hi! Your italian sounds great, would you like to prove your english?">I'll be happy</a> to translate my CV for you.</span>
+                <span class="print"><i class="fa fa-fw fa-print"></i> <a href="javascript:window.print()">Print</a> (recycled paper only)</span>                
+                <span class="site"><i class="fa fa-fw fa-globe"></i> http://bonano.me/cv</span>
+                <span class="legal"><i class="fa fa-fw fa-legal"></i> Autorizzo al trattamento dei miei dati personali, ai sensi del D.lgs. 196 del 30 giugno 2003</span>
             </div>
         </footer>
         
