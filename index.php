@@ -8,6 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/animate.min.css">
 
         <!-- Bootstrap spice -->
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="screen">
@@ -68,8 +69,8 @@
         
         <footer>
             <div class="container">
-                <p class="text-muted credits"><strong>Some credits:</strong>
-                    HTML5Boilerplate, Bootstrap, FontAwesome, SubtlePattern, poi ne aggiungo altri...
+                <p class="text-muted credits"><strong>Credits:</strong>
+                    family&friends, HTML5Boilerplate, Bootstrap, FontAwesome, SubtlePattern, Animate.css
                 </p>
             </div>
         </footer>
@@ -79,7 +80,11 @@
 
         <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 
-        <script src="js/main.js"></script>
+        <script>
+            setTimeout(function () {
+                $('.findme li').addClass('animated pulse');
+            }, 200);
+        </script>
 
         <?php
             include_once 'ga.php';

@@ -8,6 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/animate.min.css">
 
         <!-- Bootstrap spice -->
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="screen">
@@ -29,7 +30,7 @@
                 <h1>Giulio Bonanome</h1>
                 <a href="http://bonano.me"><img src="./img/omote.jpg" class="img-circle avatar" title="Ci sto pensando" alt="Foto di Giulio mentre riflette con l'aiuto del cappello-delle-idee"></a>
                 <ul class="contacts list-inline">
-                    <li><a href="mailto:giulio@bonano.me"><i class="fa fa-envelope fa-fw fa-2x"></i></a> <span>giulio@bonano.me</span></li>
+                    <li><a href="mailto:giulio@bonano.me"><i class="fa fa-envelope fa-fw fa-2x pulse"></i></a> <span>giulio@bonano.me</span></li>
                     <li><a href="http://twitter.com/gbonanome"><i class="fa fa-fw fa-twitter fa-2x"></i></a> <span>@gbonanome</span></li>
                     <li><a href="https://github.com/gbonanome"><i class="fa fa-fw fa-github fa-2x"></i></a> <span>github.com/gbonanome</span></li>
                     <li><a href="http://it.linkedin.com/in/gbonanome/"><i class="fa fa-fw fa-linkedin fa-2x"></i></a> <span>it.linkedin.com/in/gbonanome/</span></li>
@@ -149,7 +150,11 @@
 
         <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 
-        <script src="js/main.js"></script>
+        <script>
+            setTimeout(function () {
+                $('.contacts li').addClass('animated pulse');
+            }, 200);
+        </script>
 
         <?php
             include_once 'ga.php';
