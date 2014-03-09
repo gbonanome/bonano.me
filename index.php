@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html>
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -38,14 +38,10 @@
 
             <section class="bio">
             <h3>BIO</h3>
-            <p>Sono uno <strong>sviluppatore</strong> web che si occupa di <strong>biblioteche</strong>. Mi è sempre piaciuto insegnare ma è difficile, perchè vuol dire prepararsi. Amo il cinema e i fumetti, l’information visualization, l’<strong>open source</strong>. Mi piacerebbe saper disegnare e costruire robot ma manco di autodisciplina. Ad esempio, compro sempre più libri di quanti poi ne riesca a leggere.
+            <p>
+                I'm a <strong>web developer</strong> interested in <strong>library</strong> and information science. I have always enjoyed to teach, but it's difficult, because it means to study. I love movies and comics, information visualization, <strong>open source</strong>. I'd like to know how to draw and how to build robots but I lack self-discipline. For example, I buy more books than I then be able to read. 
             </p>
-            <p>Ho provato a scrivere <a href="cv">una specie di curriculum</a>.</p>
-            <!-- 
-                TODO: 
-                - link al CV 
-                - versione inglese o link a versione inglese
-            -->
+            <p><a href="cv">This is my full CV</a>.</p>
             </section>
 
             <section class="blogs row">
@@ -54,14 +50,12 @@
                         <img src="./img/omote.jpg" class="img-circle avatar">
                     </a>
                     <h2><a href="http://omote.bonano.me">Omote</a></h2>
-                    <p>Un blog che parla di sviluppo web, tecnologia, forse anche biblioteche</p>
                 </div>
                 <div class="col-md-6">
                     <a href="http://kintaroisland.wordpress.com">
                         <img src="./img/ura.jpg" class="img-circle avatar">
                     </a>
                     <h2><a href="http://kintaroisland.wordpress.com">Kintaro Island</a></h2>
-                    <p>Il mio blog di sempre, dove scrivo cose personali.</p>
                 </div>
             </section>
 
@@ -83,7 +77,7 @@
         <script>
             setTimeout(function () {
                 $('.findme li').addClass('animated pulse');
-            }, 200);
+            }, 400);
         </script>
 
         <?php
