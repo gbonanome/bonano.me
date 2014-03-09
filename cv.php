@@ -151,8 +151,7 @@
             <div class="container">
                 <span><i class="fa fa-fw fa-clock-o"></i> Last update: 2014-03-09</span>
                 <span class="translate"><i class="fa fa-fw fa-globe"></i> Italiano? <a href="it/cv">Leggi questa pagina nella tua lingua</a>.</span>
-                <span class="print"><i class="fa fa-fw fa-print"></i> <a href="javascript:window.print()">Print</a> (recycled paper only)</span>                
-                <span class="legal"><i class="fa fa-fw fa-legal"></i> Autorizzo al trattamento dei miei dati personali, ai sensi del D.lgs. 196 del 30 giugno 2003</span>
+                <span class="print"><i class="fa fa-fw fa-print"></i> <a href="javascript:window.print()">Print</a> (recycled paper only)</span>
             </div>
         </footer>
         
