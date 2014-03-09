@@ -215,7 +215,8 @@ footer .legal {
     }
 
     header img{
-        width: 100px
+        width: 100px;
+        border-radius: 50%;
     }
 
     .contacts {
