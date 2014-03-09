@@ -96,7 +96,7 @@
                     <div class="what">
                         <h4>Front-end developer</h4>
                         <p>
-                            While studying I have built websites using XHTML and CSS. In 2003, I approached some CMS, creating websites in Wordpress and Drupal. Some surviving examples: <a href="http://www.pontemanin.it/index.html">B&B Ponte Manin</a>, <a href="http://www.gamanonitalia.org/">GAM-ANON Italia</a>, <a href="http://www.centroyogayoko.it/">Centro Yoga Yoko</a>.
+                            While studying I have built websites using XHTML and CSS. In 2003, I approached Content Management Systems such as Wordpress and Drupal. Some surviving examples: <a href="http://www.pontemanin.it/index.html">B&B Ponte Manin</a>, <a href="http://www.gamanonitalia.org/">GAM-ANON Italia</a>, <a href="http://www.centroyogayoko.it/">Centro Yoga Yoko</a>.
                         </p>                  
                     </div>
                 </section>
@@ -128,12 +128,12 @@
 
                     <h3>Open source</h3>
                     <p>
-                        Since 2009, I fell in love for open source, in a broad sense as an approach to the development and implementation of projects. At first it was only using Linux and free software. Since I learned the wonders of GIT, I try to help as I can on <a href="https://github.com/gbonanome">GitHub</a>.
+                        Since 2009, I fell in love of open source, in a broad sense as an approach to the development and implementation of projects. At first it was only using Linux and free software. Since I learned the wonders of GIT, I try to help as I can on <a href="https://github.com/gbonanome">GitHub</a>.
                     </p>
 
                     <h3>Training</h3>
                     <p>
-                        I am convinced of the importance of continuos training and I would love to have more time to study or attend conferences. Recently I attended a few courses of <a href="http://zurb.com/university/core-product-design">ZURB University</a> (Foundation, Responsive Web Design, Sketching and Prototyping). In 2011 <a href="http://inthemoodforlibrary.wordpress.com/category/cpd23/">I completed</a> the <a href="http://cpd23.blogspot.it/">23 Things for Professional Development</a>.
+                        I believe of the importance of continuos training and I would love to have more time to study or attend conferences. Recently I attended a few courses of <a href="http://zurb.com/university/core-product-design">ZURB University</a> (Foundation, Responsive Web Design, Sketching and Prototyping). In 2011 <a href="http://inthemoodforlibrary.wordpress.com/category/cpd23/">I completed</a> the <a href="http://cpd23.blogspot.it/">23 Things for Professional Development</a>.
                     </p>
 
                     <h3>Volunteering</h3>
