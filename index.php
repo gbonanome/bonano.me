@@ -29,10 +29,10 @@
             <h2 class="tagline">Full-time thinker, part-time developer, wannabe maker.</h2>
 
             <ul class="findme list-inline">
-                <li><a href="mailto:giulio@bonano.me"><i class="fa fa-envelope fa-4x"></i></a></li>
-                <li><a href="https://github.com/gbonanome"><i class="fa fa-github fa-4x"></i></a></li>
-                <li><a href="http://twitter.com/gbonanome"><i class="fa fa-twitter fa-4x"></i></a></li>
-                <li><a href="http://it.linkedin.com/in/gbonanome/"><i class="fa fa-linkedin fa-4x"></i></a></li>
+                <li><a href="mailto:giulio@bonano.me" target="_blank"><i class="fa fa-envelope fa-4x"></i></a></li>
+                <li><a href="https://github.com/gbonanome" target="_blank"><i class="fa fa-github fa-4x"></i></a></li>
+                <li><a href="http://twitter.com/gbonanome" target="_blank"><i class="fa fa-twitter fa-4x"></i></a></li>
+                <li><a href="http://it.linkedin.com/in/gbonanome/" target="_blank"><i class="fa fa-linkedin fa-4x"></i></a></li>
             </ul>
 
 
@@ -46,16 +46,16 @@
 
             <section class="blogs row">
                 <div class="col-md-6">
-                    <a href="http://omote.bonano.me">
+                    <a href="http://omote.bonano.me" target="_blank">
                         <img src="./img/omote.jpg" class="img-circle avatar">
                     </a>
-                    <h2><a href="http://omote.bonano.me">Omote</a></h2>
+                    <h2><a href="http://omote.bonano.me" target="_blank">Omote</a></h2>
                 </div>
                 <div class="col-md-6">
-                    <a href="http://kintaroisland.wordpress.com">
+                    <a href="http://kintaroisland.wordpress.com" target="_blank">
                         <img src="./img/ura.jpg" class="img-circle avatar">
                     </a>
-                    <h2><a href="http://kintaroisland.wordpress.com">Kintaro Island</a></h2>
+                    <h2><a href="http://kintaroisland.wordpress.com" target="_blank">Kintaro Island</a></h2>
                 </div>
             </section>
 
