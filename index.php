@@ -26,7 +26,7 @@
         
         <div class="container">
             <h1>Giulio Bonanome</h1>
-            <h2 class="tagline">Full-time thinker, part-time developer, wannabe teacher.</h2>
+            <h2 class="tagline">Full-time thinker, part-time developer, wannabe maker.</h2>
 
             <ul class="findme list-inline">
                 <li><a href="mailto:giulio@bonano.me"><i class="fa fa-envelope fa-4x"></i></a></li>
@@ -39,7 +39,7 @@
             <section class="bio">
             <h3>BIO</h3>
             <p>
-                I'm a <strong>web developer</strong> interested in <strong>library</strong> and information science. I have always enjoyed to teach, but it's difficult, because it means to study. I love movies and comics, information visualization, <strong>open source</strong>. I'd like to know how to draw and how to build robots but I lack self-discipline. For example, I buy more books than I then be able to read. 
+                I'm a <strong>web developer</strong> interested in <strong>libraries</strong> and information science. I have always enjoyed to teach, but it's difficult, because it means to study. I love movies and comics, information visualization, <strong>open source</strong>. I'd like to know how to draw and how to build robots but I lack self-discipline. For example, I buy more books than I then be able to read. 
             </p>
             <p><a href="cv">This is my full CV</a>.</p>
             </section>
