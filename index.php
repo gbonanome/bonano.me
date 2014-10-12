@@ -16,7 +16,7 @@
 
         <link href='http://fonts.googleapis.com/css?family=Lora:700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/main.css">
-
+	
         <!--[if lt IE 9]>
             <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
             <script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')</script>
@@ -29,7 +29,7 @@
             <h2 class="tagline">Full-time thinker, part-time developer, wannabe maker.</h2>
 
             <ul class="findme list-inline">
-                <li><a href="mailto:giulio@bonano.me" target="_blank"><i class="fa fa-envelope fa-4x"></i></a></li>
+                <li><a href="mailto:giulio@bonano.me"><i class="fa fa-envelope fa-4x"></i></a></li>
                 <li><a href="https://github.com/gbonanome" target="_blank"><i class="fa fa-github fa-4x"></i></a></li>
                 <li><a href="http://twitter.com/gbonanome" target="_blank"><i class="fa fa-twitter fa-4x"></i></a></li>
                 <li><a href="http://it.linkedin.com/in/gbonanome/" target="_blank"><i class="fa fa-linkedin fa-4x"></i></a></li>
