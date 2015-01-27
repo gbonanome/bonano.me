@@ -57,8 +57,20 @@
                 <section class="work">
                     <h2>Esperienze lavorative</h2>
 
+                    <h3>Freelancer</h3>
+                    <span class="meta"><i class="fa fa-calendar"></i> 2014 - oggi <i class="fa fa-map-marker"></i> Padova - Treviso</span>
+                    
+
+                    <h3><a href="http://www.tworeads.com/" title="TwoReads">TwoReads</a></h3>
+                    <span class="meta"><i class="fa fa-calendar"></i> maggio 2014 - settembre 2014 <i class="fa fa-map-marker"></i> Milano</span>
+                    <div class="what">
+                        <h4>Startupper</h4>
+                        <p>Ho coordinato il lavoro di sviluppo (usando Google Docs, <a href="https://slack.com/">Slack</a> e <a href="https://bitbucket.org/">Bitbucket</a>), 
+                        contribuito come sviluppatore front-end (sito, blog, prototipi) e come esperto di metadati bibliografici (progettazione database, arricchimento dati).</p>
+                    </div>
+
                     <h3><a href="http://www.comperio.it/" title="Comperio srl">Comperio srl</a></h3>
-                    <span class="meta"><i class="fa fa-calendar"></i> 2010 - oggi <i class="fa fa-map-marker"></i> Rovigo</span>
+                    <span class="meta"><i class="fa fa-calendar"></i> 2010 - aprile 2014 <i class="fa fa-map-marker"></i> Rovigo</span>
                     <div class="what">
                         <h4>Sviluppatore front-end</h4>
                         <p>Ho sviluppato prevalentemente <a href="http://www.comperio.it/soluzioni/discoveryng/panoramica/">soluzioni</a> basate sul CMS open source <a href="http://www.silverstripe.org/" title="Silverstripe">Silverstripe</a>. Per lo sviluppo utilizzo strumenti come: <a href="http://bower.io/" title="Bower - A package manager for the web">Bower</a>, <a href="http://gruntjs.com/" title="Grunt - The JavaScript Task Runner">Grunt</a>, <a href="http://lesscss.org/" title="Less is a CSS pre-processor">Less</a>, <a href="http://git-scm.com/" title="Git is a free and open source distributed version control system ">GIT</a>. Il mio framework preferito è <a href="http://getbootstrap.com/" title="The most popular front-end framework for developing responsive, mobile first projects on the web.">Bootstrap</a>, ma ho usato <a href="http://www.yaml.de/" title="A modular CSS framework for truly flexible, accessible and responsive websites">YAML</a> e <a href="http://foundation.zurb.com/" title="The most advanced responsive front-end framework in the world">Foundation</a>.
@@ -87,7 +99,7 @@
                         <p>Ho realizzato e gestito il sito di <a href="http://www.radiocafoscari.it/">Radio Ca' Foscari</a> e la piattaforma per il multi blogging (Wordpress MU). Mi sono divertito a fare da speaker per il programma di cinema (<em>Il culto degli .avi</em>) e di informazione (<em>Il Ministero dell'Informazione</em>).</p>
                     </div>
 
-                    <h3>Freelance</h3>
+                    <h3>Freelancer</h3>
                     <span class="meta"><i class="fa fa-calendar"></i> 2002 - 2010 <i class="fa fa-map-marker"></i> Padova - Venezia</span>
                     <div class="what">
                         <h4>Sviluppatore front-end</h4>
@@ -138,7 +150,7 @@
         </div>
         <footer role="contentinfo">
             <div class="container">
-                <span><i class="fa fa-fw fa-clock-o"></i> Last update: 2014-03-09</span>
+                <span><i class="fa fa-fw fa-clock-o"></i> Last update: 2015-01-27</span>
                 <span class="translate"><i class="fa fa-fw fa-globe"></i> English? <a href="en/cv">Read this page in your language</a>.</span>
                 <span class="print"><i class="fa fa-fw fa-print"></i> <a href="javascript:window.print()">Print</a> (recycled paper only)</span>                
                 <span class="legal"><i class="fa fa-fw fa-legal"></i> Autorizzo al trattamento dei miei dati personali, ai sensi del D.lgs. 196 del 30 giugno 2003</span>

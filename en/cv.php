@@ -57,8 +57,19 @@
                 <section class="work">
                     <h2>Work experience</h2>
 
+                    <h3>Freelancer</h3>
+                    <span class="meta"><i class="fa fa-calendar"></i> 2014 - today <i class="fa fa-map-marker"></i> Padova - Treviso</span>
+
+                    <h3><a href="http://www.tworeads.com/" title="TwoReads">TwoReads</a></h3>
+                    <span class="meta"><i class="fa fa-calendar"></i> may 2014 - september 2014 <i class="fa fa-map-marker"></i> Milano</span>
+                    <div class="what">
+                        <h4>Startupper</h4>
+                        <p>I coordinated the development work (using Google Docs, <a href="https://slack.com/">Slack</a> and <a href="https://bitbucket.org/">Bitbucket</a>), 
+                        contributed as a front-end developer (website, blog, prototypes) and as an expert in bibliographic metadata (database design, data enrichment).</p>
+                    </div>
+
                     <h3><a href="http://www.comperio.it/" title="Comperio srl">Comperio srl</a></h3>
-                    <span class="meta"><i class="fa fa-calendar"></i> 2010 - today <i class="fa fa-map-marker"></i> Rovigo</span>
+                    <span class="meta"><i class="fa fa-calendar"></i> 2010 - april 2014 <i class="fa fa-map-marker"></i> Rovigo</span>
                     <div class="what">
                         <h4>Front-end developer</h4>
                         <p>
@@ -96,7 +107,7 @@
                     <div class="what">
                         <h4>Front-end developer</h4>
                         <p>
-                            While studying I have built websites using XHTML and CSS. In 2003, I approached Content Management Systems such as Wordpress and Drupal. Some surviving examples: <a href="http://www.pontemanin.it/index.html">B&B Ponte Manin</a>, <a href="http://www.gamanonitalia.org/">GAM-ANON Italia</a>, <a href="http://www.centroyogayoko.it/">Centro Yoga Yoko</a>.
+                            While studying I have built websites using XHTML and CSS. In 2003, I approached Content Management Systems such as Wordpress and Drupal. Some surviving examples: <a href="http://www.pontemanin.it/index.html">B&amp;B Ponte Manin</a>, <a href="http://www.gamanonitalia.org/">GAM-ANON Italia</a>, <a href="http://www.centroyogayoko.it/">Centro Yoga Yoko</a>.
                         </p>                  
                     </div>
                 </section>
