@@ -47,7 +47,7 @@
             <section class="blogs row">
                 <div class="col-md-6">
                     <a href="http://omote.bonano.me" target="_blank">
-                        <img src="./img/omote.jpg" class="img-circle avatar">
+                        <img src="./img/omote.png" class="img-circle avatar">
                     </a>
                     <h2><a href="http://omote.bonano.me" target="_blank">Omote</a></h2>
                 </div>
