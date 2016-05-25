@@ -10,7 +10,7 @@
 }
 
 body {
-    background: url('../img/psychedelic_pattern.png') repeat;
+    background: url('../img/sayagata.png') repeat;
 }
 
 /* Types */
@@ -68,7 +68,6 @@ h2 a:hover {
 /* Bio section */
 .bio {
   position: relative;
-  background: #eee;
   text-align: left;
   border: 1px solid #777;
   border-radius: 4px;
@@ -103,7 +102,7 @@ h2 a:hover {
 /* Credits */
 .credits {
   margin-top: 60px;
-  text-align: left;
+  font-size: 0.8em;
 }
 
 @media (max-width: 650px) {

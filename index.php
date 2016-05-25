@@ -41,7 +41,7 @@
             <p>
                 Sono una persona curiosa e appassionata. Attualmente mi occupo di <strong>educazione e tecnologia</strong>. Prima ho fatto lo <strong>sviluppatore web</strong> freelance e nel mondo delle biblioteche. Amo cinema, fumetti, information visualization, <strong>open source</strong>. Mi piacerebbe imparare a disegnare e a costruire robot ma manco di auto-disciplina. Ad esempio compro sempre più libri di quanti riesca poi a leggerne.
             </p>
-            <p><a href="cv">Qui una sorta di CV</a>.</p>
+            <!--<p><a href="cv">Qui una sorta di CV</a>.</p>-->
             </section>
 
             <section class="blogs row">
