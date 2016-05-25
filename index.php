@@ -39,9 +39,9 @@
             <section class="bio">
             <h3>BIO</h3>
             <p>
-                I'm a <strong>web developer</strong> interested in <strong>libraries</strong> and information science. I have always enjoyed to teach, but it's difficult, because it means to study. I love movies and comics, information visualization, <strong>open source</strong>. I'd like to know how to draw and how to build robots but I lack self-discipline. For example, I buy more books than I then be able to read. 
+                Sono una persona curiosa e appassionata. Attualmente mi occupo di <strong>educazione e tecnologia</strong>. Prima ho fatto lo <strong>sviluppatore web</strong> freelance e nel mondo delle biblioteche. Amo cinema, fumetti, information visualization, <strong>open source</strong>. Mi piacerebbe imparare a disegnare e a costruire robot ma manco di auto-disciplina. Ad esempio compro sempre più libri di quanti riesca poi a leggerne.
             </p>
-            <p><a href="cv">This is my full CV</a>.</p>
+            <p><a href="cv">Qui una sorta di CV</a>.</p>
             </section>
 
             <section class="blogs row">
@@ -63,8 +63,8 @@
         
         <footer>
             <div class="container">
-                <p class="text-muted credits"><strong>Credits:</strong>
-                    family&friends, HTML5Boilerplate, Bootstrap, FontAwesome, SubtlePattern, Animate.css
+                <p class="credits"><strong>Credits:</strong>
+                    family&amp;friends, HTML5Boilerplate, Bootstrap, FontAwesome, SubtlePattern, Animate.css
                 </p>
             </div>
         </footer>
